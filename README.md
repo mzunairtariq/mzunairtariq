@@ -7,7 +7,7 @@
 
 - 👦 Programming is something I enjoy.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators espacially in React | Angular | .NET
+- 👯 Open to dynamic collaborations with content creators specializing in React, Angular, and .NET, aiming to elevate technology education and innovation.
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy playing badminton
 
