@@ -7,8 +7,8 @@
 
 - 👦 Programming is something I enjoy.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other content creators espacially in React | Angular | .NET
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy playing badminton
 
 ### Connect with me:
