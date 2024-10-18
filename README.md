@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **contact.zunair@gmail.com**
 
+- ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@mzunairtariq/30-nites-of-code)  
+  ![@mzunairtariq #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mzunairtariq)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mzunairtariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mzunairtariq" height="30" width="40" /></a>
