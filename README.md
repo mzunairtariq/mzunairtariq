@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact.zunair@gmail.com**
 
-- ## #30NitesOfCode:
+- 🎯 #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@mzunairtariq/30-nites-of-code)  
   ![@mzunairtariq #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mzunairtariq)
 
